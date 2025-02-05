@@ -55,15 +55,6 @@ public final class AttestationHooks {
         "FINGERPRINT", "google/komodo/komodo:15/AP4A.250205.002/12821496:user/release-keys"
     );
 
-    private static final Map<String, Object> sPixel5aProps = Map.of(
-        "BRAND", "google",
-        "MANUFACTURER", "Google",
-        "DEVICE", "barbet",
-        "PRODUCT", "barbet",
-        "MODEL", "Pixel 5a",
-        "FINGERPRINT", "google/barbet/barbet:14/AP2A.240805.005.S4/12281092:user/release-keys"
-    );
-
     private static final Map<String, Object> sPixelXLProps = Map.of(
         "BRAND", "google",
         "MANUFACTURER", "Google",
